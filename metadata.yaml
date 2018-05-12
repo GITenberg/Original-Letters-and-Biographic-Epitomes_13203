@@ -1,0 +1,25 @@
+_repo: Original-Letters-and-Biographic-Epitomes_13203
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Slater, J. Atwood
+    alias: Slater, James Atwood
+    gutenberg_agent_id: '4905'
+    url: http://www.gutenberg.org/2009/agents/4905
+description: ''
+gutenberg_issued: '2004-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Slater, J. Atwood -- Correspondence'
+title: Original Letters and Biographic Epitomes
+url: http://www.gutenberg.org/ebooks/13203
